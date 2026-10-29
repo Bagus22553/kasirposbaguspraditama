@@ -1,0 +1,6 @@
+{
+  "name": "RestoPOS Pro - Sistem Kasir & Restoran",
+  "description": "Sistem Kasir POS restoran interaktif dengan manajemen menu, bahan baku, dashboard admin, cetak struk & unduh PDF.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
